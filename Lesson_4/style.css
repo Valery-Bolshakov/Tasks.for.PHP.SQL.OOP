@@ -1,0 +1,44 @@
+.Y {
+    color: darkgreen;
+}
+
+.N {
+    color: darkred;
+}
+
+.T {
+    color: tomato;
+    font-size: 18px;
+    font-family: Consolas, monaco, monospace;
+}
+
+.D {
+    color: brown;
+    font-size: 18px;
+    font-family: Consolas, monaco, monospace;
+}
+
+.T1 {
+    color: tomato;
+    font-size: 22px;
+    font-family: Consolas, monaco, monospace;
+}
+
+.D1 {
+    color: brown;
+    font-size: 22px;
+    font-family: Consolas, monaco, monospace;
+}
+
+.Ti {
+    color: brown;
+    font-size: 17px;
+    font-family: Consolas, monaco, monospace;
+}
+
+.title {
+    color: brown;
+    font-size: 24px;
+    text-decoration: none;
+    font-family: Consolas, monaco, monospace;
+}

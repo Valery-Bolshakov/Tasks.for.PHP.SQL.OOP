@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+
+Redirect /http://tasks.for.php.sql.oop/Lesson_php.2/lesson_30/index.php /http://tasks.for.php.sql.oop/Lesson_php.2/lesson_30/test.php
