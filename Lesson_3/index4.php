@@ -10,11 +10,6 @@
 </head>
 <body>
 
-<a class="title" href="http://localhost:63342/tasks.for.php.sql.oop/index.php">
-    <p><b>Стартовая страница. &#8634;</b> (запуск в IDE)</p></a>
-<a class="title" href="http://tasks.for.php.sql.oop/index.php">
-    <p><b>Стартовая страница. &#8634;</b> (Open Server)</p></a>
-<hr>
 
 <p class="T1"><b>Работа с htaccess / Файлы, папки / Сессии и куки:</b></p>
 

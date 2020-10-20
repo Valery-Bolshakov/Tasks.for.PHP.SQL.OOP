@@ -17,17 +17,17 @@
 <p class="T1"><b>Темы задач сгруппировал в следующие разделы:</b></p>
 <ul class="Ti">
     <li><b>Задачи по основам PHP: <a
-                    target="_blank" href="Lesson_1/index1.php">Lesson_php</a></b></li>
+                    target="_blank" href="Lesson_1/index1.php">Lesson_1</a></b></li>
     <li><b>Практика по PHP / Важное / Регулярки: <a
-                    target="_blank" href="Lesson_2/index2.php">Lesson_php.1</a></b></li>
+                    target="_blank" href="Lesson_2/index2.php">Lesson_2</a></b></li>
     <li><b>Работа с htaccess / Файлы, папки / Сессии и куки: <a
-                    target="_blank" href="Lesson_3/index4.php">Lesson_php.2</a></b></li>
+                    target="_blank" href="Lesson_3/index4.php">Lesson_3</a></b></li>
     <li><b>Работа с базами данных SQL / Практика по работе с SQL: <a
-                    target="_blank" href="Lesson_4/index5.php">.3</a></b></li>
-    <li><b>Практика / Движок PHP / Продвинутая работа с БД SQL: <a
-                    target="_blank" href="Lesson_5/index6.php">.4</a></b></li>
-    <li><b>Аутентификация / Продвинутая практика PHP: <a
-                    target="_blank" href="Lesson_6/index7.php">.5</a></b></li>
+                    target="_blank" href="Lesson_4/index5.php">Lesson_4</a></b></li>
+    <li><b>Практика / Движок PHP / Продвинутая работа с БД SQL: <!--<a
+                    target="_blank" href="Lesson_5/index6.php">Lesson_5</a>--></b></li>
+    <li><b>Аутентификация / Продвинутая практика PHP: <!--<a
+                    target="_blank" href="Lesson_6/index7.php">Lesson_6</a>--></b></li>
     <li><b>Задачи по ООП и MVC на PHP: <a
                     target="_blank" href="OOP_and_MVC/index3.php">OOP_and_MVC</a></b></li>
 </ul>

@@ -10,12 +10,6 @@
 </head>
 <body>
 
-<a class="title" href="http://localhost:63342/tasks.for.php.sql.oop/index.php">
-    <p><b>Стартовая страница. &#8634;</b> (запуск в IDE)</p></a>
-<a class="title" href="http://tasks.for.php.sql.oop/index.php">
-    <p><b>Стартовая страница. &#8634;</b> (Open Server)</p></a>
-<hr>
-
 <p class="T1"><b>Практика по PHP / Важное / Регулярки:</b></p>
 <ul class="Ti">
     <li><b><a href="index2.php?file=lesson_21">
