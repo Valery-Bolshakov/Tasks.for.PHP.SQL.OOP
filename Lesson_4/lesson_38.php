@@ -25,21 +25,21 @@
         <td>Коля</td>
         <td>23</td>
         <td>300</td>
-        <td><a href="?del=1">удалить</a></td>
+        <td><a href="">удалить</a></td>
     </tr>
     <tr>
         <td>2</td>
         <td>Вася</td>
         <td>24</td>
         <td>400</td>
-        <td><a href="?del=2">удалить</a></td>
+        <td><a href="">удалить</a></td>
     </tr>
     <tr>
         <td>3</td>
         <td>Петя</td>
         <td>25</td>
         <td>500</td>
-        <td><a href="?del=3">удалить</a></td>
+        <td><a href="">удалить</a></td>
     </tr>
 </table>
 
