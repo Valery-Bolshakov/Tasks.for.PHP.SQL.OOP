@@ -79,7 +79,7 @@ mysqli_query($link, $query) or die(mysqli_error($link));*/
     $query = "SELECT * FROM `workers`";
     $result = mysqli_query($link, $query) or die(mysqli_error($link));
 
-    for ($data = []; $worker = mysqli_fetch_assoc($result); $data[] = $worker);
+    for ($data = []; $worker = mysqli_fetch_assoc($result); $data[] = $worker) ;
 
     /*echo '<pre>';
     print_r($data);
@@ -99,30 +99,6 @@ mysqli_query($link, $query) or die(mysqli_error($link));*/
     echo $result_table;
     ?>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </body>
