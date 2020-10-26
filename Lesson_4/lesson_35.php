@@ -29,6 +29,10 @@ mysqli_query($link, "SET NAMES 'utf8'"); // задаем кодировку(бе
 
 //mysqli_close($link); // закрытие соединения
 
+/** СТРУКТУРА ТАБЛИЦЫ */
+/*$query = "INSERT INTO workers (name, age, salary) VALUES ('Дима', 23, 400), ('Петя', 25, 500), ('Вася', 23, 500),
+                                           ('Коля', 30, 1000), ('Иван', 27, 500), ('Кирилл', 28, 1000)";
+$result = mysqli_query($link, $query) or die(mysqli_error($link));*/
 ?>
 
 <fieldset>
