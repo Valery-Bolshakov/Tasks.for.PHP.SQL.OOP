@@ -17,11 +17,16 @@
                 Занятие №35:</a> Команды SELECT, INSERT, DELETE, UPDATE</b></li>
     <li><b><a href="index5.php?file=lesson_36">
                 Занятие №36:</a> Команды ORDER BY, LIMIT, COUNT, LIKE в SQL</b><hr></li>
-    <li><b>Занятие 37:</b></li>
-    <li><b>Занятие 38:</b></li>
-    <li><b>Занятие 39:</b></li>
-    <li><b>Занятие 40:</b></li>
-    <li><b>Занятие 41:</b></li>
+    <li><b><a href="index5.php?file=lesson_37">
+                Занятие №37:</a> Практика по работе с SQL в PHP. Часть 1.</b><hr></li>
+    <li><b><a href="index5.php?file=lesson_38">
+                Занятие №38:</a> Практика по работе с SQL в PHP. Часть 2.</b><hr></li>
+    <li><b><a href="index5.php?file=lesson_39">
+                Занятие №39:</a> Практика по работе с SQL в PHP. Часть 3.</b><hr></li>
+    <li><b><a href="index5.php?file=lesson_40">
+                Занятие №40:</a> Практика по работе с SQL в PHP. Часть 4.</b><hr></li>
+    <li><b><a href="index5.php?file=lesson_41">
+                Занятие №41:</a> Практика по работе с SQL в PHP. Часть 5.</b><hr></li>
     <li><b>Занятие 42:</b></li>
 </ul>
 
